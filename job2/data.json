@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Анна Кузнецова",
+        "username": "akuznetsova",
+        "email": "anna.kuznetsova@example.com",
+        "phone": "+7 777 123 4567",
+        "address": {
+            "city": "Алматы",
+            "street": "ул. Абая, 25",
+            "zipcode": "050000"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Иван Смирнов",
+        "username": "ismirnov",
+        "email": "ivan.smirnov@example.com",
+        "phone": "+7 701 987 6543",
+        "address": {
+            "city": "Астана",
+            "street": "пр. Назарбаева, 10",
+            "zipcode": "010000"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Жания Ахметова",
+        "username": "zh.ahmetova",
+        "email": "zhania.ahmetova@example.com",
+        "phone": "+7 705 456 7890",
+        "address": {
+            "city": "Шымкент",
+            "street": "ул. Байтурсынова, 3",
+            "zipcode": "160000"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Даниил Чернов",
+        "username": "chernov_d",
+        "email": "daniil.chernov@example.com",
+        "phone": "+7 747 321 1122",
+        "address": {
+            "city": "Караганда",
+            "street": "ул. Толе би, 14",
+            "zipcode": "100000"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Мадина Есимхан",
+        "username": "madina_95",
+        "email": "madina.esimkhan@example.com",
+        "phone": "+7 702 555 3344",
+        "address": {
+            "city": "Актобе",
+            "street": "ул. Сатпаева, 9",
+            "zipcode": "030000"
+        }
+    }
+]
