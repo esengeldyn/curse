@@ -102,6 +102,6 @@
 //     console.log(i)
 // }
 
-for(let i = 0; i <= 30; i+=7){
+for(let i = 0; i <= 20; i+=7){
     console.log(i)
 }
